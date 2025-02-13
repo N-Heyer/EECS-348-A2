@@ -1,0 +1,33 @@
+a ..
+ac ..
+acd ..
+acde ..
+a ^a
+abc ^a
+bac ^a
+abc ^ab
+acb ^ab
+a a$
+formula a$
+cab a$
+mn ma+n
+man ma+n
+maaan ma+n
+main ma+n
+woman ma+n
+abracadabra b
+abracadabra ac
+abracadabra ^abra
+abracadabra abra$
+abracadabra ca.
+abracadabra r.*b
+abracadabra ac.+a
+abracadabra cx?a
+My dog has fleas. [a-fXY0-9]
+Your dog has fleas. [^a-fXY0-9]
+My dog has fleas. flea|tick
+My dog has fleas. (My|Your) (dog|cat)
+Snoop Doggy Dogg has fleas. \bDogg\b
+File your 1040 form! \d
+File your 1040 form! \s
+File your 1040 form! \w+
